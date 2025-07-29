@@ -1,6 +1,7 @@
 # 🧠 Sign Language MNIST Classifier
 
-This project implements a deep learning model to classify American Sign Language (ASL) letters using the [SignMNIST dataset](https://www.openml.org/search?type=data&status=active&id=45082).
+
+This project documents not only the final implementation of a deep learning model for classifying American Sign Language (ASL) letters using the [SignMNIST dataset](https://www.openml.org/search?type=data&status=active&id=45082), but also the reasoning behind each decision made throughout the development process — including chosen approaches, discarded alternatives, and the rationale for the selected methodology.
 
 ## 📌 Problem Statement
 
